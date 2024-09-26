@@ -16,7 +16,7 @@
 
 # Links
 * [GBLearn COMP1238 PAGE](https://learn.georgebrown.ca/d2l/home/291663)
-* [Google Search](www.google.com)
+* [Google Search](https://www.google.com)
 * [Yandex Search](https://yandex.com)
 
 # Experiments
