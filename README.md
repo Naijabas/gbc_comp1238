@@ -23,3 +23,15 @@
 ### Emojis
 
 :blush: :smiley: :relaxed: :smirk: :heart_eyes: :kissing_heart: :kissing_closed_eyes: :flushed: :relieved: :satisfied: :grin: :wink: :stuck_out_tongue_winking_eye: :stuck_out_tongue_closed_eyes: :grinning: :kissing:	:kissing_smiling_eyes: :stuck_out_tongue: :sleeping: :worried: :frowning: :anguished:
+
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Cmd-C (copy)
+- Cmd-V (paste)
+- Cmd-Z (undo)
+
+Shortcuts I would like to start using: 
+- Cmd-Shift-Z (select all)
+- Cmd-Q (Close Application)
+- Cmd-Shift-Q (Quit all applications and log out)
