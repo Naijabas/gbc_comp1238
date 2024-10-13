@@ -2,6 +2,9 @@
 
 ## Welcome to my repository
 
+# Commands
+[CLI commands](docs/cli.md)
+
 # Number row characters
 * ! The Exclamation mark
 * @ The AT symbol
